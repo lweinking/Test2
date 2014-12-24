@@ -16,14 +16,7 @@ package
 			initStarling(Main,480,true,true);
 			
 			trace("test");
-			//
-			//
-			
-			
-			
-			
-			
-			
+			trace("dfdf");
 		}
 	}
 }
